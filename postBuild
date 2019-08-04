@@ -1,4 +1,4 @@
 conda install -y -c conda-forge folium=0.10* jinja2=2.10* osmnx=0.10* pandas=0.25* \
-    descartes shapely numpy scipy matplotlib geopandas=0.51* 
+    descartes shapely numpy scipy matplotlib geopandas=0.5* 
     
 pip install alphashape
