@@ -1,4 +1,5 @@
-conda install -y -c conda-forge folium=0.10* jinja2=2.10* osmnx=0.10* pandas=0.25* \
-    descartes shapely numpy scipy matplotlib geopandas=0.5* 
+conda config --set channel_priority strict
+conda install -y -c conda-forge folium=0.10* jinja2=2.10* osmnx=0.10* pandas=0.25* geopandas descartes shapely poppler \
+    shapely numpy scipy matplotlib
     
 pip install alphashape
