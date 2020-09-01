@@ -7,7 +7,7 @@ dependencies:
   - osmnx=0.15*
   - matplotlib
   - pandas=1.0*
-  - geopandas=0.80*
+  - geopandas
   - descartes
   - shapely
   - poppler
