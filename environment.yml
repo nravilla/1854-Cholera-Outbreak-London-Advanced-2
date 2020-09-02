@@ -13,3 +13,5 @@ dependencies:
   - poppler
   - numpy
   - scipy
+  - pip:
+    - alphashape
