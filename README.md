@@ -8,7 +8,7 @@ This repository was created for use by CDC programs to collaborate on public hea
 
 This is a **digital case study** built with [Jupyter Notebook](https://jupyter.org/) and Docker about the 1854 Cholera Outbreak in London. Dr. John Snow carried out the investigation of this outbreak. Click on either Binder link above. Wait a few minutes for the Binder service to complete its setup and launch. Enjoy the rest of the story after you launch the case study.
 
-## ## Using BinderHub
+## Using BinderHub
 After clicking on the "launch binder" link above, wait for a few minutes to have Docker container built. 
 
 ## Learn More About
