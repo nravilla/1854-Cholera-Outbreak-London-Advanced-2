@@ -2,7 +2,7 @@
 
 This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy. Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
 
-### Interact with Case Study
+## Interact with Case Study
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/PHI-Case-Studies/1854-Cholera-Outbreak-London-Advanced-2/master) 
 
