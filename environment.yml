@@ -1,4 +1,4 @@
-name: advanced2
+name: base
 channels:
   - conda-forge
 dependencies:
