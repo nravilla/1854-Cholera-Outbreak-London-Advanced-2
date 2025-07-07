@@ -13,6 +13,7 @@ RUN conda env update --file environment.yml && conda clean --all -y
 # Copy the entire project folder into the container
 COPY . .
 
+
 # Expose the default Jupyter Notebook port
 EXPOSE 8888
 
