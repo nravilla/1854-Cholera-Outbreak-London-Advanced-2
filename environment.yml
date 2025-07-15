@@ -4,13 +4,14 @@ channels:
 dependencies:
   - folium
   - jinja2
-  - osmnx=1.*
+  - osmnx
   - matplotlib
-  - pandas=1.*
+  - pandas=
   - geopandas
   - descartes
   - shapely
   - poppler
   - numpy
   - scipy
+  - scikit-spatial
   - alphashape

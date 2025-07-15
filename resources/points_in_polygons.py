@@ -32,6 +32,6 @@ def points_in_polygons(points_gdf, polygons_gdf):
         pts_in_polys.append(len(pts_in_this_poly))
 
     # Add the number of points for each poly to the dataframe.
-    polygons['points_in_polygon'] = gpd.GeoSeries(pts_in_polys)
+    polygons['points_in_polygon'] = pd.Series(pts_in_polys)
     
     return polygons
