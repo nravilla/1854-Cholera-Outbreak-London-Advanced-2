@@ -33,10 +33,7 @@ The source code forked from other open source projects will inherit its license.
 
 ## Privacy
 This repository contains only non-sensitive, publicly available data and
-information. All material and community participation is covered by the
-Surveillance Platform [Disclaimer](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md)
-and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
-For more information about CDC's privacy policy, please visit [http://www.cdc.gov/privacy.html](http://www.cdc.gov/privacy.html).
+information. 
 
 ## Contributing
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
