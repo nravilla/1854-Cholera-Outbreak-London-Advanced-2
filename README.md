@@ -13,7 +13,6 @@ After clicking on the "launch binder" link above, wait for a few minutes to have
 1. [Project Jupyter](https://jupyter.org/)
 2. [BinderHub technology - repo2docker](https://repo2docker.readthedocs.io/en/latest/)
 
-
 ## License
 The repository utilizes code licensed under the terms of the Apache Software
 License and therefore is licensed under ASL v2 or later.
